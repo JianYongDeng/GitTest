@@ -1,2 +1,1 @@
-Git is a version control system.
-Git is free software.
+天地不仁，以万物为刍狗。
